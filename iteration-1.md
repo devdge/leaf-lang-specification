@@ -1,4 +1,4 @@
-```
+```c#
 import models.BaseModel;
 
 struct User: BaseModel {
@@ -44,5 +44,5 @@ extend User {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk2ODAwNTBdfQ==
+eyJoaXN0b3J5IjpbOTc4Mjg4MjM4LC0xMzM5NjgwMDUwXX0=
 -->
